@@ -1,4 +1,4 @@
-# Stationszuil1
+# Stationszuil
 
 Module 1: Berichtenzuil
 
